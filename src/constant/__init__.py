@@ -12,5 +12,5 @@ MONGO_DB_URL="mongodb+srv://imran:TdPLW9Ad0OzpSSD2@cluster0.fv0lm61.mongodb.net/
 
 MODEL_FILE_NAME = "model"
 MODEL_FILE_EXTENSION = ".pkl"
-
+#artifact
 artifact_folder =  "artifacts"
